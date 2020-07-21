@@ -1,4 +1,4 @@
-# Logistic_Reg-Random_Forest
+# HR Analytics case study
 
 Duża firma o nazwie XYZ zatrudnia w danym momencie około 4000 pracowników. Jednak każdego roku około 15% pracowników odchodzi z firmy. Zarząd uważa, że odejście pracowników na własną rękę lub z powodu ich zwolnienia jest niekorzystne dla firmy z następujących powodów:
 Projekty byłych pracowników ulegają opóźnieniu, co utrudnia dotrzymanie terminów i powoduje utratę reputacji wśród konsumentów i partnerów
